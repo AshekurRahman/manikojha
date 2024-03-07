@@ -1,7 +1,7 @@
 /**
-* Template Name: PhotoFolio
+* Template Name: ManikOjha
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
+* Template URL: https://bootstrapmade.com/ManikOjha-bootstrap-photography-website-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
